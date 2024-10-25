@@ -1,0 +1,17 @@
+Dist_Code,State_Code,State_Name,Dist_Name,SOIL_TYPE_PERCENT_(Percent),ORTHIDS,UDUPTS/UDALFS,USTALF/USTOLLS,INCEPTISOLS
+800,13,West Bengal,24 Parganas,ORTHIDS - 100%,100.0,,,
+803,13,West Bengal,Nadia,ORTHIDS - 100%,100.0,,,
+804,13,West Bengal,Murshidabad,UDUPTS/UDALFS - 80% ; ORTHIDS - 20%,20.0,80.0,,
+805,13,West Bengal,Bardhaman,UDUPTS/UDALFS - 75% ; ORTHIDS - 25%,25.0,75.0,,
+806,13,West Bengal,Birbhum,UDUPTS/UDALFS - 100%,,100.0,,
+807,13,West Bengal,Bankura,USTALF/USTOLLS - 50% ; UDUPTS/UDALFS - 50%,,50.0,50.0,
+810,13,West Bengal,Hooghly,ORTHIDS - 85% ; UDUPTS/UDALFS - 15%,85.0,15.0,,
+811,13,West Bengal,Howrah,INCEPTISOLS - 100%,,,,100.0
+812,13,West Bengal,Jalpaiguri,INCEPTISOLS - 100%,,,,100.0
+813,13,West Bengal,Darjeeling,INCEPTISOLS - 100%,,,,100.0
+814,13,West Bengal,Malda,INCEPTISOLS - 60% ; USTALF/USTOLLS - 40%,,,40.0,60.0
+816,13,West Bengal,coochbehar,INCEPTISOLS - 100%,,,,100.0
+817,13,West Bengal,Purulia,USTALF/USTOLLS - 100%,,,100.0,
+818,13,West Bengal,Medinipur,ORTHIDS - 100%,100.0,,,
+821,13,West Bengal,Kolkata,ORTHIDS - 100%,100.0,,,
+822,13,West Bengal,Dinajpur,INCEPTISOLS - 60% ; UDUPTS/UDALFS - 40%,,40.0,,60.0
