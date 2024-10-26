@@ -1,0 +1,20 @@
+Dist_Code,State_Code,State_Name,Dist_Name,SOIL_TYPE_PERCENT_(Percent),ORTHIDS,UDUPTS/UDALFS,USTALF/USTOLLS,INCEPTISOLS
+803,13,West Bengal,nadia,ORTHIDS - 100%,100.0,,,
+804,13,West Bengal,murshidabad,UDUPTS/UDALFS - 80% ; ORTHIDS - 20%,20.0,80.0,,
+806,13,West Bengal,birbhum,UDUPTS/UDALFS - 100%,,100.0,,
+807,13,West Bengal,bankura,USTALF/USTOLLS - 50% ; UDUPTS/UDALFS - 50%,,50.0,50.0,
+810,13,West Bengal,hooghly,ORTHIDS - 85% ; UDUPTS/UDALFS - 15%,85.0,15.0,,
+811,13,West Bengal,howrah,INCEPTISOLS - 100%,,,,100.0
+812,13,West Bengal,jalpaiguri,INCEPTISOLS - 100%,,,,100.0
+813,13,West Bengal,darjeeling,INCEPTISOLS - 100%,,,,100.0
+814,13,West Bengal,malda,INCEPTISOLS - 60% ; USTALF/USTOLLS - 40%,,,40.0,60.0
+816,13,West Bengal,coochbehar,INCEPTISOLS - 100%,,,,100.0
+817,13,West Bengal,purulia,USTALF/USTOLLS - 100%,,,100.0,
+800,13,West Bengal,24 paraganas north,ORTHIDS - 100%,100.0,,,
+800,13,West Bengal,24 paraganas south,ORTHIDS - 100%,100.0,,,
+822,13,West Bengal,dinajpur uttar,INCEPTISOLS - 60% ; UDUPTS/UDALFS - 40%,,40.0,,60.0
+822,13,West Bengal,dinajpur dakshin,INCEPTISOLS - 60% ; UDUPTS/UDALFS - 40%,,40.0,,60.0
+818,13,West Bengal,medinipur east,ORTHIDS - 100%,100.0,,,
+818,13,West Bengal,medinipur west,ORTHIDS - 100%,100.0,,,
+805,13,West Bengal,paschim bardhaman,UDUPTS/UDALFS - 75% ; ORTHIDS - 25%,25.0,75.0,,
+805,13,West Bengal,purba bardhaman,UDUPTS/UDALFS - 75% ; ORTHIDS - 25%,25.0,75.0,,
